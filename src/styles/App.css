@@ -1,0 +1,101 @@
+
+*{
+font-family: 'Source Sans Pro', sans-serif;
+padding: 0;
+margin: 0;
+border:0;
+}
+
+.navbar {
+  background-color: #333;
+  padding: 15px;
+  text-align: center;
+  color: #fff;
+}
+
+.dates{
+  width: 750px;
+  padding: 5px;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 3px #000;
+}
+
+.dateHeading {
+  text-align: center;
+}
+
+.datesContainer {
+  padding: 10px;
+  
+}
+
+.datePicker {
+  width:49%;
+  display: inline-block;
+}
+
+h3{
+  text-align: center;
+}
+
+input[type=date]{
+  display: block;
+  margin: 0 auto;
+  padding: 2px;
+  border-radius: 5px;
+  border:1px solid #ccc;
+}
+
+input[type=submit]{
+  display: block;
+  margin: 0 auto;
+  padding: 5px 10px;
+  width: 20%;
+  border-radius: 5px;
+  margin-top: 5px;
+  color:#fff;
+  background-color: #339966; 
+  font-weight: bold;
+}
+
+.dateForm {
+  padding: 5px;
+}
+
+.chartTableContainer {
+  border:1px solid #ccc;
+  width: 95%;
+  margin:10px auto;
+  width: 750px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 3px #000;
+}
+
+.internetOffline{
+  width:650px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 2px #000;
+  margin-top: 100px;
+  padding: 20px;
+}
+
+.error {
+  width:650px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 2px #000;
+  margin-top: 100px;
+  padding: 20px;
+}
