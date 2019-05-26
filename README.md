@@ -1,5 +1,6 @@
-This is the assignment task given by greedyGame.
-Steps to make it work and run
+##This is the assignment task given by greedyGame.##
+
+###__Steps to make it work and run__###
 -----------------------------
 1.First of all clone this repository on your local machine.
 2.Open terminal and navigate this folder via terminal.
